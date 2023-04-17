@@ -1,1 +1,2 @@
 # wasm-tinygo-plugin-template
+
